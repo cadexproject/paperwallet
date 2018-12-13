@@ -42,7 +42,7 @@ Feel free to use it. http://cadex.xyz/
 * Private key is used to spend funds. Do not share it!
 
 #### Tips appreciated!  
-**BTC**: 19Y2H15smm4iz5xMMMYnXzjLZi8FJA8JzS  
+**BTC**: 1M4GG6o7uG91q4pUFAL8gb83Yk8BFMTzYj  
 :punch:
 #
 #### Integrity validation
